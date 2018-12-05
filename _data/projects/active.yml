@@ -70,3 +70,19 @@
     researchers, activists, and regular citizens to request, analyze, and share government
     documents, making politics more transparent and democracies more informed.
     Looking for folks interested in triaging todos or talking charts.
+-
+  name: Community Connect
+  elevatorPitch: >
+    Community Connect is a web application that helps people access health resources available in their area, especially for those who are in more vulnerable situations.
+  url: https://communityconnect.netlify.com/
+  repository: https://github.com/codeforboston/communityconnect
+  partner: 
+  partnerUrl: 
+ # lead: Nevil Desai
+ # leadUrl: 
+  technologies: React, JSON via Google Drive API
+  news: >
+    <ul>
+      <li>Examine UX and UI</li>
+      <li>"Shopping Cart" feature for Social Workers</li>
+    </ul>    
